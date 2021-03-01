@@ -813,9 +813,6 @@ ul li:nth-child(3) .fa::after
 }
 @media(max-width: 540px){
     .trace .fa::after{
-        content: "";
-   
-  
     position: absolute;
   
      }
