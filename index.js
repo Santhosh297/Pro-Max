@@ -16,7 +16,7 @@ $(document).ready(function () {
 
 
     $("#mens .owl-carousel").owlCarousel({
-        dots: true,
+        dots: false,
 
         loop: true,
 
@@ -41,7 +41,7 @@ $(document).ready(function () {
 
 
     $("#womens .owl-carousel").owlCarousel({
-        dots: true,
+        dots:false,
 
         loop: true,
 
@@ -64,7 +64,7 @@ $(document).ready(function () {
 
 
     $("#kids .owl-carousel").owlCarousel({
-        dots: true,
+        dots:false,
 
         loop: true,
 
@@ -90,7 +90,7 @@ $(document).ready(function () {
 
     $("#shoes .owl-carousel").owlCarousel({
 
-        dots: true,
+        dots:false,
         loop: true,
 
 
@@ -137,7 +137,7 @@ $(document).ready(function () {
         responsive: {
             0:
             {
-                items: 3
+                items: 2
             },
             600: {
                 items: 4
