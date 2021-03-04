@@ -811,8 +811,8 @@ ul li:nth-child(3) .fa::after
     width: 189px;
     
 }
-@media(max-width: 540px){
-   ul li:nth-child(1) .fa
+@media(max-width: 490px){
+   ul li:nth-child(1) .fa::after
 {
     background: green;
 }
