@@ -811,22 +811,22 @@ ul li:nth-child(3) .fa::after
     width: 189px;
     
 }
-@media(max-width: 490px){
+@media(max-width: 520px){
    ul li:nth-child(1) .fa::after
 {
-    background: green;
+   
 }
      ul li:nth-child(2) .fa::after
      {
-         background: white;
+         
         
-     position: relative;
+   
      }
      ul li:nth-child(3) .fa::after
      {
-         background: white;
+         
       
-         position: relative;
+         
      }
 
    }
